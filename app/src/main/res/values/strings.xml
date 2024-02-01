@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProgQuiz</string>
+    <string name="pythonQuiz">Какой язык программирования использует ключевое слово def
+        для определения функций?</string>
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="сplus">C++</string>
+    <string name="javascript">JavaScript</string>
+    <string name="quiz_completed">Викторина завершена! Ваш счет: %1$d из %2$d</string>
+</resources>
